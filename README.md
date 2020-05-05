@@ -56,6 +56,14 @@ Below a demonstration:
 
 > **Optional parameter:** *The fifth parameter allow to perform downsampling to reduce the number of points.*
 
+The `apple.pcd` file used for the demonstration can be found under the folder `resources`.
+
+It is provided from the **RGB-D Object Dataset**: https://rgbd-dataset.cs.washington.edu/dataset/rgbd-dataset_pcd_ascii/ 
+
+Below the display of `apple.pcd` file in the program **CloudCompare**:
+
+![apple.pcd_diplayed_in_CloudCompare](images/apple.png)
+
 ## Features
 
 This command line program (*PointCloudDescriptor*) includes several features:
