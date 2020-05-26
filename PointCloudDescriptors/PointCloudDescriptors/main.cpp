@@ -13,7 +13,7 @@ void main(int argc, char** argv) {
 	std::string descriptor_type, pcd_in_file, npy_out_file;
 	double radius_search;
 
-	if (argc == 4 || argc == 5) {
+	if (argc >= 4 && argc <= 6) {
 		descriptor_type = argv[1];
 		pcd_in_file = argv[2];
 		npy_out_file = argv[3];
