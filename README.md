@@ -29,7 +29,7 @@ In order to use it, you must follow these steps:
 
 ## Built With
 
-This projet is built using these technologies:
+This project is built using these technologies:
 
 - Programming Language: **C++**
 - Libraries: 
